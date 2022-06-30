@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "h4r0b3d"
-excerpt: "h4r0b3d"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
