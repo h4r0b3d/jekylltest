@@ -11,9 +11,9 @@ title                    : "Deborah / h4r0b3d"
 title_separator          : "-"
 name                     : &name "Deborah"
 description              : &description "where are you hmm"
-url                      : https://jekylltest.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/h4r0b3d" # the subpath of your site, e.g. "/blog"
-repository               : "h4r0b3d/jekylltest.github.io"
+url                      : https://h4r0b3djekylltest.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/jekylltest" # the subpath of your site, e.g. "/blog"
+repository               : "h4r0b3d/jekylltest"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
