@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Deborah Tan Xin Ying"
+  name             : "Deborah"
   avatar           : "h4r0b3d_logo.png"
   bio              : ""Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me." - John 14:6"
   location         : "Singapore"
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _renameholder
   - scope:
       path: ""
-      type: teaching
+      type: renameholder
     values:
       layout: single
       author_profile: true
